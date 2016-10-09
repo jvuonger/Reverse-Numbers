@@ -12,7 +12,7 @@ public class ReverseApp {
 		
 		System.out.println("Enter Numbers Here"); // prompt user to enter numbers 
 		
-        value = input.nextInt(); // take user's input and set to value 
+        	value = input.nextInt(); // take user's input and set to value 
 		
 		 
 		
